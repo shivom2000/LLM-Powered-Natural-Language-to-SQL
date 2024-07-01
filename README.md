@@ -5,5 +5,5 @@ Develop an end-to-end Text-to-SQL application capable of querying a MySQL databa
 
 ## Technology
 MYSQL,  
-SteamLit, 
+SteamLit,  
 LangChain using Google Palm
